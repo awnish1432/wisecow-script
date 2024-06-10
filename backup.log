@@ -1,0 +1,15 @@
+2024-06-10 11:57:24,161 - Backup to remote server failed.
+2024-06-10 11:57:24,161 - ssh: Could not resolve hostname remote_host: Temporary failure in name resolution
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.3]
+
+2024-06-10 12:03:09,448 - Backup to remote server failed.
+2024-06-10 12:03:09,448 - ssh: connect to host 14.194.125.46 port 22: Connection refused
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.3]
+
+2024-06-10 12:31:16,162 - Backup to remote server failed.
+2024-06-10 12:31:16,162 - ssh: connect to host 14.194.125.46 port 22: Connection refused
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(235) [sender=3.1.3]
+
